@@ -5,7 +5,7 @@ It consists of two major parts:
 
 2. Similarities; This is a website that takes two text files as inputs, checks them on similarities and highlights all similarities found.
 
-NB: In Similarities, various parts of the code were provided by the CS50 staff. My own code can be found in the following places:
+NB: Although all of the code in Hello (of course), Mario, Credit and Vigenere is my own, in Similarities various parts of the code were provided by the CS50 staff. My own code can be found in the following places:
 
 1. Helpers.py -> the functions 'lines', 'sentences' and 'substrings'
 2. templates/index.html
